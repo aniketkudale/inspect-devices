@@ -1,4 +1,4 @@
-# Inspect Devices
+# Inspect Devices Chrome Extension
 Inspect Devices is a Google Chrome browser extension to open DevTools - Remote Devices tab from right click context menu or via a shortcut key combinations.
 
 I often debug Android apps from Chrome browser, and to open Remote Devices tab user has to go to Settings > More Tools > Developer Tools > Remote Devices :sweat_smile:
