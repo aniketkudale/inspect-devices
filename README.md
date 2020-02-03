@@ -16,7 +16,7 @@ So I created this chrome extension which allows any user to open Remote Devices 
 You can submit your bugs or issues [here][github-issues]
 
 ## License
-MIT © 2018 Aniket Kudale
+MIT © 2020 Aniket Kudale
 
  [chrome-store]: https://chrome.google.com/webstore/detail/inspect-devices/gekjjfijolflhgbhjggpflnklibhkmjh
  [github-issues]: https://github.com/aniketkudale/inspect-devices/issues
