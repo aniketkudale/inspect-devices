@@ -18,5 +18,5 @@ You can submit your bugs or issues [here][github-issues]
 ## License
 MIT © 2020 Aniket Kudale
 
- [chrome-store]: https://chrome.google.com/webstore/detail/inspect-devices/gekjjfijolflhgbhjggpflnklibhkmjh
+ [chrome-store]: https://chrome.google.com/webstore/detail/inspect-devices/kmhbjbgkpaceeioiadjkfinjbckgckim
  [github-issues]: https://github.com/aniketkudale/inspect-devices/issues
